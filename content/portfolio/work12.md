@@ -12,9 +12,16 @@ Maker Faire Tokyo 2017 に初出展して展示した深層学習で駆動する
 
 ![hoge](https://takayaohta.com/img/project/lips/lips-logo.png)
 
+![foo](/img/ms_gosic_police.jpg)
+
 ![fuga](./../../static/img/portfolio/ms_gosic_police.jpg)
 
+{{< figure src="/img/ms_gosic_police.jpg" >}}
+
 ![geo][1]
+
+
+
 
 [1]: /img/portfolio/ms_gosic_police.jpg
 
