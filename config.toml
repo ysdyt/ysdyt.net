@@ -13,10 +13,11 @@ publishDir = "docs"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "sea"
-  description = "Aiming at the boundary between digital and analog"
+  description = "The boundary between digital and analog"
   copyright = "&copy;2020 ysdyt.net"
   sidebarAbout = [
-    "白金あたりでデータサイエンティストやってます。"
+    "My product portfolio page.",
+    "To express the boundary between digital and analog"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
