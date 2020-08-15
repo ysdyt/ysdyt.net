@@ -4,14 +4,10 @@ image = "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
 title = "クリスマスツリーセルフィー"
-weight = 1
+weight = 0
 +++
-
 <!--more-->
 
-Maker Faire Tokyo 2017 に初出展して展示した深層学習で駆動するロボットアームです。
-あああああああああああああああああああ
 
-![image](alexnet-full.png)
 
-{{< figure src="/img/ms_gosic_police.jpg" >}}
+#### Read More

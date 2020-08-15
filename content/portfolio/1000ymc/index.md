@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/1000ymc_top.jpg"
+image = "img/portfolio/mc.jpg"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
 title = "「夫婦になる瞬間」を永遠に。千年残る和紙婚姻届『千年婚姻届』"
@@ -8,7 +8,7 @@ weight = 1
 +++
 <!--more-->
 
-![image](1000ymc_top.jpg)
+![](mc.jpg)
 
 *"一生手元に残したくなるくらい綺麗な、しかもかっこ良くて渋い、特別な婚姻届を作りたい"*
 
@@ -20,7 +20,8 @@ weight = 1
 
 ■ 和紙婚姻届の上にカーボン紙を重ね、さらにその上に役所提出用の婚姻届を重ねて書くことで、書いた文字を和紙婚姻届に複写させます。一番上に重ねた提出用の婚姻届は通常通り役所に提出し、複写された和紙婚姻届は記念に手元に残すことができます。
 
-![](mc.jpg)
+![image](1000ymc_top.jpg)
+
 
 千年保ち、複写式で手元に残せるこの"一生残る和紙婚姻届"を『千年婚姻届』と名づけました。
 
@@ -29,7 +30,8 @@ weight = 1
 ご縁・和紙技術の継承・未来に続く思いなど、さまざまな意味を込め作成しました。
 
 {{<vimeo 285213448>}}
+Filmed by https://mikayamashita.com/
 
 
-
-read more
+#### Related Page
+- [夫婦になる瞬間を永遠に残す、千年残る手漉き和紙婚姻届を作りました - note](https://note.com/ysdyt/n/nbacba1e130f1)
