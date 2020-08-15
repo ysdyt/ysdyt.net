@@ -18,8 +18,7 @@ publishDir = "docs"
   description = "The boundary between digital and analog"
   copyright = "&copy;2020 ysdyt.net"
   sidebarAbout = [
-    "My product portfolio page.",
-    "To express the boundary between digital and analog"
+    "portfolio site with a list of things I've created."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

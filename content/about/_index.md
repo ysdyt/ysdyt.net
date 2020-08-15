@@ -11,15 +11,5 @@ title = "About me"
 - 慶応大学大学院 SFC 政策・メディア研究科 (計算機生物学専攻)
 - 2015.4~ 都内でデータサイエンティスト ← いまココ
 
-aaa
+![yutayoshida](/img/yuta_yoshida.jpg)
 
-![This is me][1]
-
-![hoge][2]
-
-![goo](http://ysdyt.net/wp-content/uploads/2017/08/IMG_8451-768x576.jpg)
-
-aaaa
-
-[1]: /img/about.jpg
-[2]: /img/favicon.png
