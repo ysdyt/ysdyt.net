@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/mc.jpg"
 showonlyimage = true
-date = "2016-11-05T20:23:59+05:30"
+date = "2020-08-13T20:23:59+05:30"
 title = "「夫婦になる瞬間」を永遠に。千年残る和紙婚姻届『千年婚姻届』"
 weight = 1
 +++
