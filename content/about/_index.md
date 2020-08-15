@@ -12,7 +12,9 @@ title = "About me"
 - 2015.4~ 都内でデータサイエンティスト ← いまココ
 
 ![This is me][1]
+![hoge][2]
 
 
 
 [1]: /img/about.jpg
+[2]: /img/favicon.png
