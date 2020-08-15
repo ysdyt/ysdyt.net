@@ -1,5 +1,6 @@
-#baseurl = "https://ysdyt.github.io/ysdyt.net/"
-baseurl = "https://ysdyt.net.ysdyt.github.io/"
+baseurl = "https://ysdyt.github.io/ysdyt.net/"
+#baseurl = "https://ysdyt.net.ysdyt.github.io/"
+canonifyurls = true
 title = "ysdyt.net"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja"
