@@ -25,6 +25,11 @@ weight = 1
 千年保ち、複写式で手元に残せるこの"一生残る和紙婚姻届"を『千年婚姻届』と名づけました。
 
 ![](resized_logo.png)
+「千年婚姻届」のブランドロゴ。
+ご縁・和紙技術の継承・未来に続く思いなど、さまざまな意味を込め作成しました。
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://player.vimeo.com/video/285213448?byline=0&amp;badge=0&amp;portrait=0&amp;title=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+{{<vimeo 285213448>}}
 
+
+
+read more
