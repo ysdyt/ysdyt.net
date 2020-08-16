@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F100780%2F669339c9-05ce-c740-e020-0ffb25c8902b.jpeg?ixlib=rb-1.2.2&auto=format&gif-q=60&q=75&w=1400&fit=max&s=74dfb42d9afe379e394bed1a37bbb444"
+image = "img/portfolio/wedding-telegram_top.jpg"
 showonlyimage = true
 date = "2017-06-21T20:23:59+05:30"
 title = "「ご結婚おめでとう」の声を届ける『祝電2.0』"

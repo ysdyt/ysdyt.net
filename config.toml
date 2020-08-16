@@ -18,7 +18,7 @@ publishDir = "docs"
   description = "The boundary between digital and analog"
   copyright = "&copy;2020 ysdyt.net"
   sidebarAbout = [
-    "portfolio site with a list of things I've created."
+    "my portfolio site"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -53,9 +53,9 @@ publishDir = "docs"
   name = "About"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  #[[params.navlinks]]
+  #name = "Get in touch"
+  #url = "contact/"
 
   [params.social]
   twitter       = "https://twitter.com/yutatatatata"
@@ -63,9 +63,8 @@ publishDir = "docs"
   facebook      = "https://www.facebook.com/ysdyt"
   #googleplus    = "full profile url in googleplus"
   linkedin      = "https://www.linkedin.com/in/ysdyt/"
-  email         = "freedomandfavor@gmail.com"
+  #email         = "freedomandfavor@gmail.com"
   #stackoverflow = "full profile url in stackoverflow"
   #instagram     = "full profile url in instagram"
   #youtube       = "full profile url in youtube"
   #whatsapp      = "wa.me service link"
-  #note = "https://note.com/ysdyt"

@@ -6,31 +6,22 @@
     <description>Recent content in Portfolios on ysdyt.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 27 May 2020 20:23:59 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 20:23:59 +0530</lastBuildDate>
     
 	<atom:link href="https://ysdyt.github.io/ysdyt.net/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>selfie-theta</title>
-      <link>https://ysdyt.github.io/ysdyt.net/portfolio/selfie-theta/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://ysdyt.github.io/ysdyt.net/portfolio/selfie-theta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>「夫婦になる瞬間」を永遠に。千年残る和紙婚姻届『千年婚姻届』</title>
       <link>https://ysdyt.github.io/ysdyt.net/portfolio/1000ymc/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <pubDate>Thu, 13 Aug 2020 20:23:59 +0530</pubDate>
       
       <guid>https://ysdyt.github.io/ysdyt.net/portfolio/1000ymc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>「職人の技」を定量化する深層学習と伝統工芸</title>
+      <title>伝統工芸の「職人の技」を定量化する深層学習</title>
       <link>https://ysdyt.github.io/ysdyt.net/portfolio/kumanofude-dl/</link>
       <pubDate>Wed, 27 May 2020 20:23:59 +0530</pubDate>
       
@@ -39,20 +30,11 @@
     </item>
     
     <item>
-      <title>「ご結婚おめでとう」の声を届ける『祝電2.0』</title>
-      <link>https://ysdyt.github.io/ysdyt.net/portfolio/wedding-telegram/</link>
-      <pubDate>Wed, 21 Jun 2017 20:23:59 +0530</pubDate>
-      
-      <guid>https://ysdyt.github.io/ysdyt.net/portfolio/wedding-telegram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>クリスマスツリーセルフィー</title>
-      <link>https://ysdyt.github.io/ysdyt.net/portfolio/christmastree-selfie/</link>
+      <title>笑顔をシェアするアプリ『Smile Score』</title>
+      <link>https://ysdyt.github.io/ysdyt.net/portfolio/smilescore/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>https://ysdyt.github.io/ysdyt.net/portfolio/christmastree-selfie/</guid>
+      <guid>https://ysdyt.github.io/ysdyt.net/portfolio/smilescore/</guid>
       <description></description>
     </item>
     
@@ -66,11 +48,29 @@
     </item>
     
     <item>
-      <title>笑顔をシェアして競うアプリ『Smile Score』</title>
-      <link>https://ysdyt.github.io/ysdyt.net/portfolio/smilescore/</link>
+      <title>「ご結婚おめでとう」の声を届ける『祝電2.0』</title>
+      <link>https://ysdyt.github.io/ysdyt.net/portfolio/wedding-telegram/</link>
+      <pubDate>Wed, 21 Jun 2017 20:23:59 +0530</pubDate>
+      
+      <guid>https://ysdyt.github.io/ysdyt.net/portfolio/wedding-telegram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>selfie-theta</title>
+      <link>https://ysdyt.github.io/ysdyt.net/portfolio/selfie-theta/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>https://ysdyt.github.io/ysdyt.net/portfolio/smilescore/</guid>
+      <guid>https://ysdyt.github.io/ysdyt.net/portfolio/selfie-theta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>クリスマスツリーセルフィー</title>
+      <link>https://ysdyt.github.io/ysdyt.net/portfolio/christmastree-selfie/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://ysdyt.github.io/ysdyt.net/portfolio/christmastree-selfie/</guid>
       <description></description>
     </item>
     

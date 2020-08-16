@@ -3,8 +3,8 @@ draft = false
 image = "img/portfolio/kumanofude_top.png"
 showonlyimage = true
 date = "2020-05-27T20:23:59+05:30"
-title = "「職人の技」を定量化する深層学習と伝統工芸"
-weight = 0
+title = "伝統工芸の「職人の技」を定量化する深層学習"
+weight = 2
 +++
 
 <!--more-->

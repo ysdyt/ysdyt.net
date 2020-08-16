@@ -14,6 +14,9 @@ weight = 1
 
 1300年の歴史を持つ島根の伝統的な手漉き和紙と、出雲大社の縁結びで有名な"ご縁の国"の魅力を最大限に活かした "Made in 島根" の和紙婚姻届を作りました。
 
+{{<youtube qMqCwrkG7VY>}}
+Filmed by [PZ福岡](https://www.youtube.com/channel/UClFq2OpuYvbmWIIxy5fTJGA)
+
 この和紙婚姻届の特徴をまとめるとこんな感じです。
 
 ■ 素材の紙は、島根県浜田市の和紙職人によって制作される『石州和紙』を使用しています。この和紙を作る職人の技術はユネスコ無形文化遺産にも登録され、作られる和紙は1000年残った実績があるほど耐久性が高い和紙です。
@@ -35,3 +38,5 @@ Filmed by https://mikayamashita.com/
 
 #### Related Page
 - [夫婦になる瞬間を永遠に残す、千年残る手漉き和紙婚姻届を作りました - note](https://note.com/ysdyt/n/nbacba1e130f1)
+- [意味を形にし、命を吹き込む - note](https://note.com/ysdyt/n/ne9a744d9b91b?magazine_key=m7d404b2cf3b5)
+- [千年残る和紙婚姻届ができるまで- note magazine](https://note.com/ysdyt/m/m7d404b2cf3b5)
