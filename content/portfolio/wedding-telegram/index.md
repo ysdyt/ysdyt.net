@@ -4,7 +4,7 @@ image = "img/portfolio/wedding-telegram_top.jpg"
 showonlyimage = true
 date = "2017-06-21T20:23:59+05:30"
 title = "「ご結婚おめでとう」の声を届ける『祝電2.0』"
-weight = 0
+weight = 5
 +++
 
 <!--more-->

@@ -2,7 +2,7 @@
 <html lang="ja">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>selfie-theta</title>
+<title>顔認識で自動撮影・共有できる360度カメラ「Selfie THETA」</title>
 <meta name="description" content="The boundary between digital and analog">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -102,8 +102,33 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>selfie-theta</h1>
-         
+         <h1>顔認識で自動撮影・共有できる360度カメラ「Selfie THETA」</h1>
+         <p><img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F100780%2F1ad861bb-605b-7e5d-ab2f-8a616888e5ef.jpeg?ixlib=rb-1.2.2&amp;auto=format&amp;gif-q=60&amp;q=75&amp;w=1400&amp;fit=max&amp;s=43cdf30fcd847355103f10954aced100" alt=""></p>
+<p>顔検出を使って人を検出し、360度カメラのRICOH THETAのシャッターを自動で切り、LINEグループに投稿しみんなでシェアするカメラ「Selfie THETA」のプロトタイプです。別プロダクトの<a href="https://ysdyt.github.io/ysdyt.net/portfolio/smilescore/">Smile Score</a>と一緒に披露宴会場に設置するために制作しました。</p>
+<p>手軽に360度画像を撮影できる<a href="https://theta360.com/ja/">RICOH THETA</a>をとても気に入っているのですが、不満として</p>
+<ul>
+<li>THETAを持っている人しか撮影できない</li>
+<li>撮った360度画像の共有が不便</li>
+</ul>
+<p>というのがありました。</p>
+<p>これらを改造して、</p>
+<ul>
+<li>THETAを誰でも使えるように三脚で設置し、撮影方法がわからない人でも本体に触ることなく撮影ができる</li>
+<li>撮影した写真は自動で指定のLineグループへ投稿され、複数人と手軽に360度ビュー画像を共有できる
+というものを目指しました。</li>
+</ul>
+<p>セルフで撮影できるTHETAということで、「Selfie THETA」の名付けました。</p>
+<p>使い方は、RaspberryPiでカメラの前に立った人の顔認識を行い撮影カウントダウンを行います。それをトリガーとしてRICOH THETA API経由で360度画像を撮影、dropboxで画像を同期し、Line API経由で指定のLineグループへ投稿します。Lineでは360度画像を自動でレンダリングしてくれるため手軽に立体画像を楽しむことができます。<br>
+シャッターカウントダウンの声は声優の養成所に通われている方に依頼して声あてをしてもらいました。</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/9qGCU4JGQhc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h4 id="related-page">Related Page</h4>
+<ul>
+<li><a href="https://qiita.com/ysdyt/items/653faa44641b0460742b">RICOH THETAで自動撮影しLINEに半自動でアップロードするカメラ、『Selfie THETA』</a></li>
+</ul>
          
       </div>
     </div>

@@ -57,21 +57,41 @@
     </item>
     
     <item>
-      <title>selfie-theta</title>
-      <link>https://ysdyt.github.io/ysdyt.net/portfolio/selfie-theta/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      
-      <guid>https://ysdyt.github.io/ysdyt.net/portfolio/selfie-theta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>クリスマスツリーセルフィー</title>
+      <title>顔検出撮影で自動でアルバムを作ってくれる「Christmas tree selfie」</title>
       <link>https://ysdyt.github.io/ysdyt.net/portfolio/christmastree-selfie/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
       <guid>https://ysdyt.github.io/ysdyt.net/portfolio/christmastree-selfie/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>顔認識で自動撮影・共有できる360度カメラ「Selfie THETA」</title>
+      <link>https://ysdyt.github.io/ysdyt.net/portfolio/selfie-theta/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://ysdyt.github.io/ysdyt.net/portfolio/selfie-theta/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F100780%2F1ad861bb-605b-7e5d-ab2f-8a616888e5ef.jpeg?ixlib=rb-1.2.2&amp;amp;auto=format&amp;amp;gif-q=60&amp;amp;q=75&amp;amp;w=1400&amp;amp;fit=max&amp;amp;s=43cdf30fcd847355103f10954aced100&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;顔検出を使って人を検出し、360度カメラのRICOH THETAのシャッターを自動で切り、LINEグループに投稿しみんなでシェアするカメラ「Selfie THETA」のプロトタイプです。別プロダクトの&lt;a href=&#34;https://ysdyt.github.io/ysdyt.net/portfolio/smilescore/&#34;&gt;Smile Score&lt;/a&gt;と一緒に披露宴会場に設置するために制作しました。&lt;/p&gt;
+&lt;p&gt;手軽に360度画像を撮影できる&lt;a href=&#34;https://theta360.com/ja/&#34;&gt;RICOH THETA&lt;/a&gt;をとても気に入っているのですが、不満として&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;THETAを持っている人しか撮影できない&lt;/li&gt;
+&lt;li&gt;撮った360度画像の共有が不便&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;というのがありました。&lt;/p&gt;
+&lt;p&gt;これらを改造して、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;THETAを誰でも使えるように三脚で設置し、撮影方法がわからない人でも本体に触ることなく撮影ができる&lt;/li&gt;
+&lt;li&gt;撮影した写真は自動で指定のLineグループへ投稿され、複数人と手軽に360度ビュー画像を共有できる
+というものを目指しました。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;セルフで撮影できるTHETAということで、「Selfie THETA」の名付けました。&lt;/p&gt;
+&lt;p&gt;使い方は、RaspberryPiでカメラの前に立った人の顔認識を行い撮影カウントダウンを行います。それをトリガーとしてRICOH THETA API経由で360度画像を撮影、dropboxで画像を同期し、Line API経由で指定のLineグループへ投稿します。Lineでは360度画像を自動でレンダリングしてくれるため手軽に立体画像を楽しむことができます。&lt;br&gt;
+シャッターカウントダウンの声は声優の養成所に通われている方に依頼して声あてをしてもらいました。&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/9qGCU4JGQhc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
