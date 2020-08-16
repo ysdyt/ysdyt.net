@@ -32,6 +32,8 @@ Filmed by [PZ福岡](https://www.youtube.com/channel/UClFq2OpuYvbmWIIxy5fTJGA)
 「千年婚姻届」のブランドロゴ。
 ご縁・和紙技術の継承・未来に続く思いなど、さまざまな意味を込め作成しました。
 
+![](card.jpg)
+
 {{<vimeo 285213448>}}
 Filmed by https://mikayamashita.com/
 
