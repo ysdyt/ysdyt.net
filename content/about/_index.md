@@ -27,7 +27,7 @@ title = "About me"
 分析の仕事の傍ら、教育・採用・チームビルディングのための組織文化醸造とその仕組み化・コミュニティー活動にも関心があり、企画から運営までモチベーションを持って行っています。  
 
 アイデアを形にすることが好きです。  
-ポテンシャルを持っているがまだ世の中に知られていない価値あるものに、新たな切り口から光を当てることに情熱を持っています。殆どは「思いついてしまったらやらずにはいられない」という謎の強迫観念に突き動かされています。  
+ポテンシャルを持っているがまだ世の中に知られていない価値あるものに、新たな切り口から光を当てることに情熱を持っています。「思いついてしまったらやらずにはいられない」という謎の強迫観念に突き動かされています。  
 1→100にするための企画、実装（泥臭い作業からプログラミングまで）、PDCAを回すためのデータ分析・SNS宣伝などを行えます。  
 
 **Community**  
@@ -35,6 +35,9 @@ title = "About me"
 - [OpenBrainPad Project](https://twitter.com/Open_BrainPad) 中の人（2019.9~）
 - [白金鉱業Meetup](https://brainpad-meetup.connpass.com/) 主催（2018.8~）
 - [Data Analyst Meetup Tokyo](https://data-analyst.connpass.com/) 運営メンバー（2016.8~）
+
+**Work history**
+詳細は[こちら](https://www.notion.so/ysdyt/Yoshida-Yuta-bd1961046c9e417283c8705b55db0ab6)
 
 **Contact**  
 どんなご相談でも [twitterのDM](https://twitter.com/yutatatatata) にお気軽にどうぞ！  
