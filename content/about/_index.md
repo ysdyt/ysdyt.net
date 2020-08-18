@@ -36,7 +36,7 @@ title = "About me"
 - [白金鉱業Meetup](https://brainpad-meetup.connpass.com/) 主催（2018.8~）
 - [Data Analyst Meetup Tokyo](https://data-analyst.connpass.com/) 運営メンバー（2016.8~）
 
-**Work history**
+**Work history**  
 詳細は[こちら](https://www.notion.so/ysdyt/Yoshida-Yuta-bd1961046c9e417283c8705b55db0ab6)
 
 **Contact**  
