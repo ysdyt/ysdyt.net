@@ -40,6 +40,7 @@ title = "About me"
 詳細は[こちら](https://www.notion.so/ysdyt/Yoshida-Yuta-bd1961046c9e417283c8705b55db0ab6)
 
 **Contact**  
+自分が発信したこと・作ったものから新しい繋がりや展開が始まることに期待しています！  
 どんなご相談でも [twitterのDM](https://twitter.com/yutatatatata) にお気軽にどうぞ！  
 どういう要件でもとりあえず投げ込んでいただいて大丈夫です。
 
