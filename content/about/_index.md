@@ -31,8 +31,8 @@ title = "About me"
 1→100にするための企画、実装（泥臭い作業からプログラミングまで）、PDCAを回すためのデータ分析・SNS宣伝などを行えます。  
 
 **Community**  
-- [白金鉱業.FM](https://twitter.com/shirokane_fm) 中の人（2019.9~）
-- [OpenBrainPad Project](https://twitter.com/Open_BrainPad) 中の人（2019.9~）
+- [白金鉱業.FM](https://twitter.com/shirokane_fm)（2019.9~）
+- [OpenBrainPad Project](https://twitter.com/Open_BrainPad)（2019.9~）
 - [白金鉱業Meetup](https://brainpad-meetup.connpass.com/) 主催（2018.8~）
 - [Data Analyst Meetup Tokyo](https://data-analyst.connpass.com/) 運営メンバー（2016.8~）
 
