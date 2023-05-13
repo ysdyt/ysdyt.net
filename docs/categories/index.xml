@@ -5,10 +5,6 @@
     <link>https://ysdyt.github.io/ysdyt.net/categories/</link>
     <description>Recent content in Categories on ysdyt.net</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    
-	<atom:link href="https://ysdyt.github.io/ysdyt.net/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ja</language><atom:link href="https://ysdyt.github.io/ysdyt.net/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
