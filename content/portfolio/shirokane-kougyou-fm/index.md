@@ -18,5 +18,5 @@ ApplePodcast/Spotifyで配信中。番組のtwitterハッシュタグは[#白金
 [JAPAN PODCAST AWARDS 2020 推薦作品](https://www.japanpodcastawards.com/recommends/index.html)にも選ばれました。
 
 #### Related Page
-- [白金鉱業.FM 番組HP](https://shirokane-kougyou.fm/)
+- [白金鉱業.FM 番組HP](https://shirokane-kougyou.github.io/)
 - Twitterアカウント [@shirokane_fm](https://twitter.com/shirokane_fm)

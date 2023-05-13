@@ -30,5 +30,4 @@ weight = 2
 
 #### Related Page
 - [「職人の技」の定量化を目指す TensorFlow - Google Developers](https://developers-jp.googleblog.com/2020/05/tensorflow.html)
-- [伝統工芸と深層学習 - 白金鉱業.FM](https://shirokane-kougyou.fm/episode/20)
-
+- [伝統工芸と深層学習 - 白金鉱業.FM](https://shirokane-kougyou.github.io/episode/20)

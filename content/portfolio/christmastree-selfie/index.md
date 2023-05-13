@@ -23,5 +23,5 @@ RaspberryPi3+OpenCVでクリスマスツリーに自動セルフィー（自撮�
 ![](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F100780%2F7faf7530-cf29-65bb-cc7e-deaa0fdd4443.jpeg?ixlib=rb-1.2.2&auto=format&gif-q=60&q=75&w=1400&fit=max&s=a93da290d3b66d3c66f3e2ef0074581d)
 
 #### Related Page
-- [クリスマスツリーに自動セルフィー機能を付けて会社のクリスマス会に設置してみた話](https://qiita.com/ysdyt/items/1c92d70db3cfb03cc02c)
+- [クリスマスツリーに自動セルフィー機能を付けて会社のクリスマス会に設置してみた話 - qiita](https://qiita.com/ysdyt/items/1c92d70db3cfb03cc02c)
 - https://github.com/ysdyt/ChristmasTree-Selfie

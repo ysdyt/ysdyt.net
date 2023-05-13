@@ -12,9 +12,7 @@ weight = 0
 
 大学生時代、同期と2人で始めたファッションショーイベント。  
 島根県松江市にあるセレクトショップ12店舗、地元テレビ局/新聞社に協賛してもらい “松江のセレクトショップ” をメインとした島根での学生発ファッションショーを開催。1時間半で300人超の来場者を達成。  
-人生初のweb pageも作成(下記リンク)  
-
+人生初のweb pageも作成し運営。
 
 #### Related Page
-- [webpage](http://mff.main.jp/) 
 - [Facebook page](https://www.facebook.com/mff.sac)

@@ -37,9 +37,12 @@ Filmed by [PZ福岡](https://www.youtube.com/channel/UClFq2OpuYvbmWIIxy5fTJGA)
 {{<vimeo 285213448>}}
 Filmed by https://mikayamashita.com/
 
-このプロダクトは、クラウドファンディングサイト（FAAVO by CAMPFIRE）にて[プロジェクトを公開](https://camp-fire.jp/projects/view/310092)し、2020/11/3~11/30の期間で66人の支援により372,200円（124%達成）の資金を集め無事に成功しました。
+このプロダクトは、クラウドファンディングサイト（FAAVO by CAMPFIRE）にて[プロジェクトを公開](https://camp-fire.jp/projects/view/310092)し、2020/11/3~11/30の期間で66人の支援により372,200円（124%達成）の資金を集め成功しました。
 
 #### Related Page
+- [BASEでの販売ページ](https://kusakabe.base.ec/)
+- [メルカリshopsでの販売ページ](https://mercari-shops.com/shops/ZvC4x7Bpa7FYwKMon3ZvDo)
+- [6年かけて婚姻届を作る話 - note](https://note.com/ysdyt/n/ne14a0a4491d0)
 - [夫婦になる瞬間を永遠に残す、千年残る手漉き和紙婚姻届を作りました - note](https://note.com/ysdyt/n/nbacba1e130f1)
 - [意味を形にし、命を吹き込む - note](https://note.com/ysdyt/n/ne9a744d9b91b?magazine_key=m7d404b2cf3b5)
 - [千年残る和紙婚姻届ができるまで - note magazine](https://note.com/ysdyt/m/m7d404b2cf3b5)

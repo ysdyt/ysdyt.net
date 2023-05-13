@@ -21,5 +21,5 @@ weight = 4
 - [CNNは絵札のどの部分に注目してフォントを見分けているか - slideshare](https://www.slideshare.net/YutaYoshida1/cnn-78650579)
 
 #### Related Page
-- [Maker Faire Tokyo 2017に初出展して「MSゴシック絶対許さんマン」を展示しました！](http://ysdyt.net/maker-faire-tokyo-2017-%E3%81%AB%E5%88%9D%E5%87%BA%E5%B1%95%E3%81%97%E3%81%A6%E3%80%8Cms%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E7%B5%B6%E5%AF%BE%E8%A8%B1%E3%81%95%E3%82%93%E3%83%9E%E3%83%B3%E3%80%8D/)
+- [Maker Faire Tokyo 2017に初出展して「MSゴシック絶対許さんマン」を展示しました！](https://ysdyt.hatenablog.jp/entry/msgothic_police)
 - https://github.com/ysdyt/MSgothicPolice
