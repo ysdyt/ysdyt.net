@@ -12,7 +12,7 @@ weight = 5
 ![](wedding-telegram_top.jpg)
 
 新郎新婦には内緒で「ご結婚おめでとう」の「声」を友人から集めてプレゼントするという、「祝電2.0」的なアプリを作成しました。元ネタは2013年のコチラの素敵なブログ
-- [「ご結婚おめでとう」親友に贈ったコードとデザインの話](https://mamipeko.hatenablog.com/entry/happy-wedding-s)
+- [「ご結婚おめでとう」親友に贈ったコードとデザインの話](https://mamipeko.hatenablog.com/entry/happy-wedding-s) - リンク切れ
 
 アプリの概要は、こんな感じです。
 - Twilioという音声APIを使って自動応答メッセージの電話アプリを作成
@@ -24,4 +24,4 @@ weight = 5
 #### Related Page
 - [プログラミングを覚えて4年越しに当時一目惚れしたアプリを作った話](https://ysdyt.hatenablog.jp/entry/shukuden_app)
 - [TwilioAPI×Python(Flask)×Herokuで自動電話応答でお祝いの声を集める「祝電2.0」アプリを作る](https://qiita.com/ysdyt/items/2d173948fc5d225d050d)
-- https://github.com/ysdyt/twilio_wedding
+
